@@ -1,0 +1,16 @@
+C:\Users\ukcmcka\documents\visual studio 2017\Projects\IrisAutomation\Specs\bin\Debug\chromedriver.exe
+C:\Users\ukcmcka\documents\visual studio 2017\Projects\IrisAutomation\Specs\bin\Debug\Framework.dll
+C:\Users\ukcmcka\documents\visual studio 2017\Projects\IrisAutomation\Specs\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ukcmcka\documents\visual studio 2017\Projects\IrisAutomation\Specs\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\ukcmcka\documents\visual studio 2017\Projects\IrisAutomation\Specs\bin\Debug\WebDriver.dll
+C:\Users\ukcmcka\documents\visual studio 2017\Projects\IrisAutomation\Specs\bin\Debug\Framework.pdb
+C:\Users\ukcmcka\documents\visual studio 2017\Projects\IrisAutomation\Specs\bin\Debug\WebDriver.xml
+C:\Users\ukcmcka\documents\visual studio 2017\Projects\IrisAutomation\Specs\obj\Debug\Specs.csprojResolveAssemblyReference.cache
+C:\Users\ukcmcka\documents\visual studio 2017\Projects\IrisAutomation\Specs\obj\Debug\Specs.dll
+C:\Users\ukcmcka\documents\visual studio 2017\Projects\IrisAutomation\Specs\obj\Debug\Specs.pdb
+C:\Users\ukcmcka\documents\visual studio 2017\Projects\IrisAutomation\Specs\bin\Debug\Specs.dll.config
+C:\Users\ukcmcka\documents\visual studio 2017\Projects\IrisAutomation\Specs\bin\Debug\Specs.dll
+C:\Users\ukcmcka\documents\visual studio 2017\Projects\IrisAutomation\Specs\bin\Debug\Specs.pdb
+C:\Users\ukcmcka\documents\visual studio 2017\Projects\IrisAutomation\Specs\bin\Debug\Protractor.dll
+C:\Users\ukcmcka\documents\visual studio 2017\Projects\IrisAutomation\Specs\bin\Debug\Protractor.pdb
+C:\Users\ukcmcka\documents\visual studio 2017\Projects\IrisAutomation\Specs\bin\Debug\Protractor.xml

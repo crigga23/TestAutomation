@@ -1,0 +1,10 @@
+C:\Users\ukcmcka\documents\visual studio 2017\Projects\IrisAutomation\Framework\bin\Debug\chromedriver.exe
+C:\Users\ukcmcka\documents\visual studio 2017\Projects\IrisAutomation\Framework\bin\Debug\Framework.dll
+C:\Users\ukcmcka\documents\visual studio 2017\Projects\IrisAutomation\Framework\bin\Debug\Framework.pdb
+C:\Users\ukcmcka\documents\visual studio 2017\Projects\IrisAutomation\Framework\bin\Debug\Protractor.dll
+C:\Users\ukcmcka\documents\visual studio 2017\Projects\IrisAutomation\Framework\bin\Debug\WebDriver.dll
+C:\Users\ukcmcka\documents\visual studio 2017\Projects\IrisAutomation\Framework\bin\Debug\Protractor.pdb
+C:\Users\ukcmcka\documents\visual studio 2017\Projects\IrisAutomation\Framework\bin\Debug\Protractor.xml
+C:\Users\ukcmcka\documents\visual studio 2017\Projects\IrisAutomation\Framework\bin\Debug\WebDriver.xml
+C:\Users\ukcmcka\documents\visual studio 2017\Projects\IrisAutomation\Framework\obj\Debug\Framework.dll
+C:\Users\ukcmcka\documents\visual studio 2017\Projects\IrisAutomation\Framework\obj\Debug\Framework.pdb
