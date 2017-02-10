@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Specs/FeatureFiles/BuildToolsFeature.feature.cs
+/Specs/FeatureFiles/BuildToolsFeature.feature
+/Specs/obj/Debug/TempPE
+/Specs/obj/Debug/TempPE
+/Specs/obj/Debug/TempPE
+/.gitignore
+/.gitignore

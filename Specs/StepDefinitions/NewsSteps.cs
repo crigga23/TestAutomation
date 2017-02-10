@@ -14,19 +14,20 @@ namespace Specs.StepDefinitions
         public NewsSteps()
         {
             driver = AutomationHelper.CreateAutomationDriver();
+            driver.Manage().Timeouts().SetScriptTimeout(TimeSpan.FromSeconds(5));
         }
 
 
         [Given(@"I am on the bbc news website")]
         public void GivenIAmOnTheBbcNewsWebsite()
         {
-            driver.Navigate().GoToUrl("http://bbc.co.uk");
+            driver.Navigate().GoToUrl("http://bbc.co.uk/news");
         }
         
         [When(@"I access the UK section")]
         public void WhenIAccessTheUKSection()
         {
-            driver.FindElement(By.ClassName("navigation-wide-list")).Click();
+            driver.FindElement(By.CssSelector("ul.navigation-wide-list li a[href='/ news/uk']")).Click();
             
             // use page object in future!! 
         }
